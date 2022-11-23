@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Dice Game!
+title: MyDiceGame!
 ---
 
 copy practice of 'Yacht' dice
